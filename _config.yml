@@ -1,5 +1,5 @@
 name: Test Jekyll
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 baseurl: /test_jekyll
 
